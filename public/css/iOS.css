@@ -1,0 +1,3204 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:600,400,700');
+
+
+.ios {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 2909px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.ios .bgcolor {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 860px;
+  margin-right        : 0px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : -0px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 909px;
+  align-items         : center;
+  height              : 3048px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.ios .bgcolor .ovalcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 734px;
+  height              : 767px;
+  width               : 762px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor .ovalcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 855px;
+  width               : 850px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : 663px;
+  width               : 658px;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor .ovalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 177px;
+  height              : 491px;
+  width               : 489px;
+  position            : absolute;
+  margin              : 0;
+  left                : 181px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor .ovalcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 826px;
+  height              : 589px;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor .bgcolorcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1547px;
+  height              : 1501px;
+  width               : 850px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor .bgcolorcopy .ovalcopy41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 734px;
+  height              : 767px;
+  width               : 762px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor .bgcolorcopy .ovalcopy21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 855px;
+  width               : 850px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor .bgcolorcopy .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : 663px;
+  width               : 658px;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor .bgcolorcopy .ovalcopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 177px;
+  height              : 491px;
+  width               : 489px;
+  position            : absolute;
+  margin              : 0;
+  left                : 181px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .bgcolor .bgcolorcopy .ovalcopy31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 826px;
+  height              : 589px;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 335px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : calc(0.00% + 840px);
+  align-items         : center;
+  height              : 667px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.ios .iphonexwhite1 .fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 666px;
+  width               : 334px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .screen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 642px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  border-radius       : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 627px;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .bg {
+  background-color    : rgba(254, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 626px;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.61;
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 36px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .battery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 10px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 269px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .battery .border {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 10px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(0, 0, 0, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.35;
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .battery .cap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 3px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .battery .capacity {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 2px;
+  height              : 6px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  border-radius       : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .wifi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 9px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 253px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .cellularconnection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 9px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 235px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .timestyle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 17px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .timestyle .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .timestyle .u21b3time {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 11.2px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.22px;
+  line-height         : 14.0px;
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .timestyle .u21b3time .span1 {
+  
+}
+.ios .iphonexwhite1 .content .iphonexstatusbarsstatusbarblack .timestyle .u21b3time .span2 {
+  
+}
+.ios .iphonexwhite1 .content .navbottom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 557px;
+  height              : 70px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .connected {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 17.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  line-height         : 28.8px;
+}
+.ios .iphonexwhite1 .content .youridentityandpr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 159px;
+  height              : auto;
+  width               : 223px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  line-height         : 17.0px;
+}
+.ios .iphonexwhite1 .content .buttonunconnected {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 214px;
+  height              : 170px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.ios .iphonexwhite1 .content .buttonunconnected .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 170px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .buttonunconnected .logounselected {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 113px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .buttonunconnected .logounselected .logotransparent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 110px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.24;
+}
+.ios .iphonexwhite1 .content .buttonunconnected .logounselected .logotransparent .logotransparent1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 111px;
+  width               : 112px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.24;
+}
+.ios .iphonexwhite1 .content .buttonunconnected .logounselected .tailoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 108px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .buttonunconnected .logounselected .bodyoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 92px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .buttonunconnected .logounselected .legoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 52px;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .buttonunconnected .logounselected .eyeoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : 9px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(20deg); /* IE 9 */
+  -webkit-transform   : rotate(20deg); /* Chrome, Safari, Opera */
+  transform           : rotate(20deg);
+}
+.ios .iphonexwhite1 .content .buttonconnected {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 214px;
+  height              : 170px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .location {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 399px;
+  height              : 68px;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .content .location .location1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.07px;
+  line-height         : 19.0px;
+}
+.ios .iphonexwhite1 .content .location .newyorkusa72229 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : auto;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.07px;
+  line-height         : 20.0px;
+}
+.ios .iphonexwhite1 .fill11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 666px;
+  width               : 334px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .shadow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 616px;
+  width               : 285px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .shadow .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 616px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.ios .iphonexwhite1 .shadow .combinedshapecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 612px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.ios .iphonexwhite1 .shadow1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 632px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 6px;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 140px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .group .rectangle7 {
+  background-color    : rgba(206, 212, 217, 1.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite1 .group .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 335px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : calc(0.00% + 1540px);
+  align-items         : center;
+  height              : 667px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.ios .iphonexwhite2 .fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 666px;
+  width               : 334px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .screen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 642px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  border-radius       : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 627px;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .bg {
+  background-color    : rgba(254, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 626px;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.61;
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 36px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .battery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 10px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 269px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .battery .border {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 10px;
+  box-sizing          : border-box;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(0, 0, 0, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.35;
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .battery .cap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 3px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .battery .capacity {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 2px;
+  height              : 6px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  border-radius       : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .wifi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 9px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 253px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .cellularconnection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 9px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 235px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .timestyle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 17px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .timestyle .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .timestyle .u21b3time {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 11.2px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.22px;
+  line-height         : 14.0px;
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .timestyle .u21b3time .span1 {
+  
+}
+.ios .iphonexwhite2 .content .iphonexstatusbarsstatusbarblack .timestyle .u21b3time .span2 {
+  
+}
+.ios .iphonexwhite2 .content .navbottomcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 557px;
+  height              : 70px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 112px;
+  height              : 63px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .enjoyourserviceun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 189px;
+  height              : auto;
+  width               : 176px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 19.0px;
+}
+.ios .iphonexwhite2 .content .a1month {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 310px;
+  height              : 45px;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .a1month .a1month1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 19.0px;
+}
+.ios .iphonexwhite2 .content .a1month .rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 22px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(213, 213, 213, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .a1month .rectangle4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 152px;
+  border-radius       : 22px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(213, 213, 213, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .a1month .a599m {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.ios .iphonexwhite2 .content .a1year {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 414px;
+  height              : 45px;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-radius       : 22px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .a1year .rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 22px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(213, 213, 213, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .a1year .rectangle4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 152px;
+  border-radius       : 22px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(213, 213, 213, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .a1year .a399m {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.ios .iphonexwhite2 .content .a1year .a1year1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 19.0px;
+}
+.ios .iphonexwhite2 .content .a1year .save33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 9.6px;
+  color               : rgba(86, 196, 204, 1.0);
+  text-align          : center;
+  line-height         : 12.8px;
+}
+.ios .iphonexwhite2 .content .a6month {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 362px;
+  height              : 45px;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-radius       : 22px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .a6month .rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 22px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(213, 213, 213, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .a6month .rectangle4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 152px;
+  border-radius       : 22px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(213, 213, 213, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .a6month .a499m {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.ios .iphonexwhite2 .content .a6month .a6months {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 19.0px;
+}
+.ios .iphonexwhite2 .content .a6month .save17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 9.6px;
+  color               : rgba(86, 196, 204, 1.0);
+  text-align          : center;
+  line-height         : 12.8px;
+}
+.ios .iphonexwhite2 .content .refer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 466px;
+  height              : 45px;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-radius       : 22px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .refer .rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 22px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(87, 148, 247, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .refer .rectangle4 {
+  background-color    : rgba(87, 148, 247, 1.0);
+  top                 : 1px;
+  height              : 44px;
+  width               : 116px;
+  position            : absolute;
+  margin              : 0;
+  left                : 153px;
+  border-radius       : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .content .refer .referfriend {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 161px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.ios .iphonexwhite2 .content .refer .a3daysfree {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.6px;
+  color               : rgba(70, 70, 74, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 19.0px;
+}
+.ios .iphonexwhite2 .content .premiumplanwithun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 59px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 11.2px;
+  color               : rgba(125, 125, 128, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.07px;
+  line-height         : 15.0px;
+}
+.ios .iphonexwhite2 .fill11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 666px;
+  width               : 334px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .shadow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 616px;
+  width               : 285px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .shadow .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 616px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.ios .iphonexwhite2 .shadow .combinedshapecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 612px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.ios .iphonexwhite2 .shadow1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 632px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 6px;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 140px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .group .rectangle7 {
+  background-color    : rgba(206, 212, 217, 1.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite2 .group .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 335px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : calc(0.00% + 2260px);
+  align-items         : center;
+  height              : 667px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.ios .iphonexwhite3 .fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 666px;
+  width               : 334px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .screen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 642px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  border-radius       : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 627px;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .bg {
+  background-color    : rgba(254, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 626px;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.61;
+}
+.ios .iphonexwhite3 .content .navbottomcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 557px;
+  height              : 70px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 67px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header .box {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 7px;
+  height              : 59px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header .bottomborder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 59px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.ios .iphonexwhite3 .content .header .me {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 142px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 12.8px;
+  color               : rgba(12, 0, 51, 1.0);
+  text-align          : center;
+  line-height         : 19.2px;
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .battery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 10px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .battery .border {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 10px;
+  box-sizing          : border-box;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(0, 0, 0, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.35;
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .battery .cap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 3px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .battery .capacity {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 2px;
+  height              : 6px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  border-radius       : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .wifi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 9px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 253px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .cellularconnection {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 9px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 235px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .timestyle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 17px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .timestyle .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .timestyle .u21b3time {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 11.2px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.22px;
+  line-height         : 14.0px;
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .timestyle .u21b3time .span1 {
+  
+}
+.ios .iphonexwhite3 .content .header .iphonexstatusbarsstatusbarblack .timestyle .u21b3time .span2 {
+  
+}
+.ios .iphonexwhite3 .content .logout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 362px;
+  height              : 45px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .logout .rectanglecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 302px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .logout .logout1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.8px;
+  color               : rgba(72, 72, 76, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 18.0px;
+}
+.ios .iphonexwhite3 .content .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 300px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .about .rectanglecopy {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .about .listitemtextdoubleiconscopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .about .listitemtextdoubleiconscopy5 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .about .listitemtextdoubleiconscopy5 .box {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.ios .iphonexwhite3 .content .about .listitemtextdoubleiconscopy5 .righticon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 269px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .about .listitemtextdoubleiconscopy5 .text1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : calc(100.00% - 108px);
+  position            : absolute;
+  margin              : 0;
+  left                : calc(0.00% + 54px);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .about .listitemtextdoubleiconscopy5 .text1 .u21b3ud83dudd8acontent {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0%;
+  height              : auto;
+  width               : 100%;
+  position            : relative;
+  pointer-events      : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.8px;
+  color               : rgba(12, 0, 51, 1.0);
+  text-align          : left;
+  line-height         : 19.2px;
+}
+.ios .iphonexwhite3 .content .about .listitemtextdoubleiconscopy5 .text1 .u21b3ud83dudd8acontent-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  height              : 100%;
+  width               : 100%;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0%;
+}
+.ios .iphonexwhite3 .content .about .listitemtextdoubleiconscopy5 .lefticon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 152px;
+  height              : 129px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 129px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleicons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleicons .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleicons .box {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleicons .righticon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 269px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleicons .text1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : calc(100.00% - 108px);
+  position            : absolute;
+  margin              : 0;
+  left                : calc(0.00% + 54px);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleicons .text1 .u21b3ud83dudd8acontent {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0%;
+  height              : auto;
+  width               : 100%;
+  position            : relative;
+  pointer-events      : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.8px;
+  color               : rgba(12, 0, 51, 1.0);
+  text-align          : left;
+  line-height         : 19.2px;
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleicons .text1 .u21b3ud83dudd8acontent-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  height              : 100%;
+  width               : 100%;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0%;
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleicons .lefticon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .icondot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 241px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 86px;
+  height              : 44px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy3 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy3 .box {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy3 .righticon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 269px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy3 .text1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : calc(100.00% - 108px);
+  position            : absolute;
+  margin              : 0;
+  left                : calc(0.00% + 54px);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy3 .text1 .u21b3ud83dudd8acontent {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0%;
+  height              : auto;
+  width               : 100%;
+  position            : relative;
+  pointer-events      : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.8px;
+  color               : rgba(12, 0, 51, 1.0);
+  text-align          : left;
+  line-height         : 19.2px;
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy3 .text1 .u21b3ud83dudd8acontent-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  height              : 100%;
+  width               : 100%;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0%;
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy3 .lefticon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 44px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy2 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy2 .box {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy2 .righticon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 269px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy2 .text1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : calc(100.00% - 108px);
+  position            : absolute;
+  margin              : 0;
+  left                : calc(0.00% + 54px);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy2 .text1 .u21b3ud83dudd8acontent {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0%;
+  height              : auto;
+  width               : 100%;
+  position            : relative;
+  pointer-events      : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.8px;
+  color               : rgba(12, 0, 51, 1.0);
+  text-align          : left;
+  line-height         : 19.2px;
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy2 .text1 .u21b3ud83dudd8acontent-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  height              : 100%;
+  width               : 100%;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0%;
+}
+.ios .iphonexwhite3 .content .group1 .listitemtextdoubleiconscopy2 .lefticon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .profile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .profile .rectanglecopy {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .profile .listitemtextdoubleiconscopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .profile .listitemtextdoubleiconscopy5 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .profile .listitemtextdoubleiconscopy5 .box {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.ios .iphonexwhite3 .content .profile .listitemtextdoubleiconscopy5 .righticon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 269px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .profile .listitemtextdoubleiconscopy5 .text1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : calc(100.00% - 108px);
+  position            : absolute;
+  margin              : 0;
+  left                : calc(0.00% + 54px);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .profile .listitemtextdoubleiconscopy5 .text1 .u21b3ud83dudd8acontent {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0%;
+  height              : auto;
+  width               : 100%;
+  position            : relative;
+  pointer-events      : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.8px;
+  color               : rgba(12, 0, 51, 1.0);
+  text-align          : left;
+  line-height         : 19.2px;
+}
+.ios .iphonexwhite3 .content .profile .listitemtextdoubleiconscopy5 .text1 .u21b3ud83dudd8acontent-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  height              : 100%;
+  width               : 100%;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0%;
+}
+.ios .iphonexwhite3 .content .profile .listitemtextdoubleiconscopy5 .lefticon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .content .profile .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 21px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .fill11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 666px;
+  width               : 334px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .shadow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 616px;
+  width               : 285px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .shadow .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 616px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.ios .iphonexwhite3 .shadow .combinedshapecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 612px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.ios .iphonexwhite3 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 6px;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 140px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .group .rectangle7 {
+  background-color    : rgba(206, 212, 217, 1.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .iphonexwhite3 .group .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .oval {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  top                 : calc(0.00% - 46px);
+  left                : calc(4.97% - 185px);
+  margin              : 0;
+  width               : calc(90.06% + 377px);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .g1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(0.00% + 266px);
+  height              : 51px;
+  width               : 186px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.ios .g1 .youtube {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .g1 .facebook {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .g1 .netflix {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .g2 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : calc(0.00% + 0px);
+  top                 : calc(0.00% + 265px);
+  height              : 51px;
+  width               : 192px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.ios .g2 .google {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  right               : 130px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .g2 .ins {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  right               : 65px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .g2 .twittercopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 54px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  right               : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 340px;
+  margin-right        : -0px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 210px;
+  align-items         : center;
+  height              : 219px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.ios .instruction .button {
+  background-color    : rgba(255,255,255,0.0);
+  height              : 55px;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction .button#downloadTestflight{
+  top                 : 100px;
+}
+.ios .instruction .button#downloadFromAppStore{
+  top                 : 330px;
+}
+.ios .instruction .button#downloadSquirrel{
+  top                 : 190px;
+}
+.ios .instruction .button .shadow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction .button .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 3px;
+  height              : 45px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  border-radius       : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction .button .iosdownload {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 17.0px;
+  color               : rgba(64, 159, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.ios .instruction .button#downloadTestflight .iosdownload {
+  left: 140px;
+}
+.ios .instruction .button#downloadFromAppStore .iosdownload {
+  left: 120px;
+}
+.ios .instruction .button .images1 {
+  left                : 100px;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction .button .images3 {
+  left                : 80px;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction .button .images2 {
+  left                : 75px;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction .a2aftersuccessfull {
+  background-color    : rgba(255,255,255,0.0);
+  height              : auto;
+  width               : 342px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : PingFangSC-Regular, sans-serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.ios .instruction .a2aftersuccessfull#step1-text{
+  top                 : 75px;
+  left                : 35px;
+}
+.ios .instruction .a2aftersuccessfull#step2-text{
+  top                 : 165px;
+  left                : 35px;
+}
+.ios .instruction .a2aftersuccessfull#change-apple-id-link{
+  top                 : 390px;
+  text-align          : center;
+}
+.ios .instruction .a2aftersuccessfull#change-apple-id-link a{
+  color               : #ffffff;
+  text-decoration     : underline;
+}
+.ios .instruction .a2aftersuccessfull#register-apple-id-link{
+  top                 : 418px;
+  text-align          : center;
+}
+.ios .instruction .a2aftersuccessfull#register-apple-id-link a{
+  color               : #ffffff;
+  text-decoration     : underline;
+}
+.ios .instruction .a2aftersuccessfull#go-to-website{
+  top                 : 445px;
+  text-align          : center;
+}
+.ios .instruction .a2aftersuccessfull#go-to-website a{
+  color               : #1D2F65;
+  font-size           : 16.0px;
+  text-decoration     : underline;
+}
+.ios .instruction .testflighticon {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 47px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 166px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction .testflighticon .mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction .testflighticon .a1200x630wa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .instruction .a1installu2018testflig {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 342px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : PingFangSC-Regular, sans-serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.ios .instruction .a1installu2018testflig .span1 {
+  font-family         : PingFangSC-Regular, sans-serif;
+  line-height         : 23.0px;
+}
+.ios .instruction .a1installu2018testflig .span2 {
+  font-family         : PingFangSC-Regular, sans-serif;
+  line-height         : 26.0px;
+}
+.ios .instruction .installPro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : PingFangSC-Regular, sans-serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : #1D2F65;
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.ios .instruction .installAppStore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 235px;
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : PingFangSC-Regular, sans-serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : #1D2F65;
+  text-align          : center;
+  line-height         : 27.0px;
+}
+
+.ios .instruction .details-text {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  padding             : 0px 15px;
+  height              : auto;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : PingFangSC-Regular, sans-serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : #1D2F65;
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.ios .instruction .details-text#pro-details {
+  top                 : 30px;
+}
+.ios .instruction .details-text#app-store-details {
+  top                 : 290px;
+}
+.ios #encourage-text {
+    top                 : 355px;
+    width               : 100%;
+    position            : absolute;
+    height              : 21px;
+    color               : #ffffff;
+    font-family         : PingFangSC-Regular, sans-serif;
+    font-weight         : 700;
+    font-style          : normal;
+    font-size           : 18.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : center;
+    line-height         : 27.0px;
+}
+.ios .text {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 210px;
+  margin-right        : -2px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 2px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ios .text-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : calc(0.00% + 32px);
+  align-items         : center;
+  height              : 150px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.ios .coverblack {
+    visibility:hidden;
+    background-color    : rgba(10, 14, 19, 1.0);
+    top                 : 0%;
+    height              : 2804px;
+    width               : 100%;
+    position            : absolute;
+    margin              : 0;
+    left                : 0%;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.89;
+}
+.ios .instructions {
+    visibility:hidden;
+    background-color    : rgba(255,255,255,0.0);
+    width               : 340px;
+    margin-right        : -5px;
+    height              : 100%;
+    pointer-events      : auto;
+    margin-left         : 5px;
+    position            : relative;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.ios .instructions-layout-container {
+    pointer-events      : none;
+    flex-direction      : column;
+    top                 : calc(0.00% + 60px);
+    align-items         : center;
+    height              : 436px;
+    width               : 100%;
+    position            : absolute;
+    margin              : 0;
+    display             : flex;
+    left                : 0;
+}
+.ios .instructions .arrow {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 400px;
+    width               : 340px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+}
+.ios .instructions .cannotdownloadinw {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 211px;
+    height              : auto;
+    width               : 306px;
+    position            : absolute;
+    margin              : 0;
+    left                : 18px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "Open Sans", Helvetica, Arial, serif;
+    font-weight         : 700;
+    font-style          : normal;
+    font-size           : 18.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : center;
+    line-height         : 18.0px;
+}
+.ios .instructions .cannotdownloadinw .span1 {
+    line-height         : 26.0px;
+}
+.ios .instructions .cannotdownloadinw .span2 {
+    color               : rgba(122, 160, 255, 1.0);
+    line-height         : 26.0px;
+}
+.ios .instructions .cannotdownloadinw .span3 {
+    font-size           : 20.0px;
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span4 {
+    font-family         : "HiraginoSans-W6", Helvetica, Arial, serif;
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span5 {
+    font-family         : "HiraginoSansGB-W6", Helvetica, Arial, serif;
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span6 {
+    font-family         : "HiraginoSans-W6", Helvetica, Arial, serif;
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span7 {
+    font-family         : "HiraginoSansGB-W6", Helvetica, Arial, serif;
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span8 {
+    font-family         : "HiraginoSans-W6", Helvetica, Arial, serif;
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span9 {
+    font-family         : "HiraginoSansGB-W6", Helvetica, Arial, serif;
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span10 {
+    color               : rgba(130, 161, 255, 1.0);
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span11 {
+    font-family         : "HiraginoSans-W6", Helvetica, Arial, serif;
+    color               : rgba(130, 161, 255, 1.0);
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span12 {
+    color               : rgba(130, 161, 255, 1.0);
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span13 {
+    font-family         : "HiraginoSans-W6", Helvetica, Arial, serif;
+    color               : rgba(130, 161, 255, 1.0);
+    line-height         : 30.0px;
+}
+.ios .instructions .cannotdownloadinw .span14 {
+    color               : rgba(130, 161, 255, 1.0);
+    line-height         : 30.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

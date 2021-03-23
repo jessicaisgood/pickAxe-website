@@ -1,0 +1,57 @@
+{
+  "name": "PickAxe-website",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "./",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "antd": "3.26.7",
+    "base-64": "^0.1.0",
+    "copy-to-clipboard": "^3.2.0",
+    "echarts": "^4.2.1",
+    "moment": "2",
+    "prop-types": "^15.7.2",
+    "qrcode.react": "^0.9.3",
+    "qs": "^6.3.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-icons": "^3.10.0",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-stripe-elements": "^6.0.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "react-scripts": "^3.4.3",
+    "sass-loader": "^7.1.0"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!**/*index.js",
+      "!src/serviceWorker.js",
+      "!src/polyfill.js"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+.sk-ab {
+    position: relative;
+    overflow: hidden;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sk-asset {
+    position: absolute;
+    background-repeat: no-repeat;
+}
+
+.body-style {
+    background-color: #E7F0FF;
+}
+
+
+
+.sk-asset.body-text{
+    font-family: "PingFang SC","微软雅黑", Helvetica, Arial, STXihei, "华文细黑", sans-serif;
+    color: #0C0033;
+    position: relative;
+    font-size: 20px;
+    text-align: justify;
+    font-weight: 500;
+    line-height: 1.6;
+    width: 90%;
+    left: 50px;
+    top: 400px;
+}
+.sk-asset.body-text.step-text {
+    color: #2B7CFF;
+    font-size: 40px;
+    line-height: 1.2;
+    text-align: left;
+}
+.sk-asset.body-text .title-text{
+    font-size: 23px;
+    font-weight: 600;
+    position: relative;
+    text-align: left;
+}
+.sk-asset#header {
+    text-align: center;
+}
+
+.sk-asset.body-text .small-text{
+    opacity: 0.7;
+    position: relative;
+    font-size: 16px;
+    left: 50px;
+    width: 90%;
+    text-align: left;
+}
+    
+.sk-asset.sk-logo {
+    width: 1000px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 80px;
+}
+.sk-asset.sk-logo img {
+    max-width: 25%;
+    max-height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.sk-asset.screenshot {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 450px;
+}
+.sk-asset.screenshot img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+/* Specific to privacy */
+.sk-ab.sk-squirrel-privacy {
+    background-color: #E7F0FF;
+    height: 11000px;
+}
+.sk-ab.sk-squirrel-register-id {
+    background-color: #E7F0FF;
+    height: 9000px;
+}
+.sk-asset.title-text#title {
+    top: 200px;
+}
+
+
+@media screen and (max-width: 415px) {
+    /* mobile app */
+    .sk-asset.body-text{
+        font-size: 14px;
+        left: 20px;
+        top: 210px;
+    }
+    .sk-asset.body-text.step-text {
+        font-size: 20px;
+    }
+    .sk-asset.body-text .title-text{
+        font-size: 16px;
+    }
+
+    .sk-asset.body-text .small-text{
+        font-size: 12px;
+        left: 20px;
+    }
+        
+    .sk-asset.sk-logo {
+        width: 370px;
+        height: 130px;
+        top: 50px;
+    }
+    .sk-asset.sk-logo img {
+        max-width: 30%;
+    }
+    .sk-asset.screenshot {
+        top: 230px;
+    }
+
+
+    /* Specific to privacy */
+    .sk-ab.sk-squirrel-privacy {
+        width: 370px;
+        height: 11000px;
+    }
+    .sk-ab.sk-squirrel-register-id {
+        width: 370px;
+        height: 6000px;
+    }
+    .sk-asset.title-text#title {
+        top: 0px;
+    }
+
+}
+
+
