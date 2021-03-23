@@ -1,5 +1,5 @@
 ## PickAxe Official Website
-Bitgas official website
+PickAxe official website
 
 ## Install
 ```npm install```
