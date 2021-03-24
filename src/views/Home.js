@@ -192,31 +192,33 @@ export default class Home extends BaseComponent {
                     <div className={styles.features_section} id="features_section">
                         <h4>{window.language.feature_section.title}</h4>
                         <div className={styles.app_why_us_image}></div>
-                        <div className={styles.app_why_us_table_image}></div>
+                        {/* <div className={styles.app_why_us_table_image}></div> */}
                     </div>
                     
 
-                    {/* burn  */}
+                    {/* hardware advantages */}
                     <div className={styles.feature_section_small}>
                         <div className={styles.box_left}>
                             <h1>{window.language.feature_section.burn_title}</h1>
                             <p className={styles.feature_details}>
+                                {window.language.feature_section.burn_text1} <br/>   <br/>
                                 <h2>{window.language.feature_section.burn_subtitle1}</h2>
-                                {window.language.feature_section.burn_text1} <br/>                              ​
+                                {window.language.feature_section.burn_text2} <br/>    
+                                {window.language.feature_section.burn_text3} <br/>                         ​
                             </p>              
                         </div>
                         <div className={styles.box_right_burn}>
                         </div>
                     </div>
-                    {/* join */}
+
+                    {/* fast sealing*/}
                     <div className={styles.feature_section}>
                         <div className={styles.box_left}>
                             <h1>{window.language.feature_section.join_title}</h1>
                             <p className={styles.feature_details}>
-                                {window.language.feature_section.join_text1} <br/><br/>
-                                <h2>{window.language.feature_section.join_subtitle1}</h2>
-                                {window.language.feature_section.join_text2}
-                                <br/>
+                            <h2>{window.language.feature_section.join_subtitle1}</h2>
+                                {window.language.feature_section.join_text2} <br/><br/>
+                            <h2>{window.language.feature_section.join_subtitle2}</h2>
                                 {window.language.feature_section.join_text3}
                                 <br/>
                                 {window.language.feature_section.join_text4}                                 ​
@@ -225,23 +227,7 @@ export default class Home extends BaseComponent {
                         <div className={styles.box_right_join}>
                         </div>
                     </div>
-                    {/* holding  */}
-                    <div className={styles.feature_section_large}>
-                        <div className={styles.box_left}>
-                            <h1>{window.language.feature_section.holding_title}</h1>
-                            <p className={styles.feature_details}>
-                                {window.language.feature_section.holding_text1} <br/><br/>
-                                <h2>{window.language.feature_section.holding_subtitle1}</h2>
-                                {window.language.feature_section.holding_text2}
-                                <br/><br/>
-                                <h2>{window.language.feature_section.holding_subtitle2}</h2>
-                                {window.language.feature_section.holding_text3}                                 ​
-                            </p>              
-                        </div>
-                        <div className={styles.box_right_holding}>
-                        </div>
-                    </div>
-                    {/* invitation  */}
+                    {/* storage */}
                     <div className={styles.feature_section_large}>
                         <div className={styles.box_left}>
                             <h1>{window.language.feature_section.invitation_title}</h1>
@@ -250,44 +236,53 @@ export default class Home extends BaseComponent {
                                 <h2>{window.language.feature_section.invitation_subtitle1}</h2>
                                 {window.language.feature_section.invitation_text2}
                                 <br/><br/>
+                                <h2>{window.language.feature_section.invitation_subtitle2}</h2>
                                 {window.language.feature_section.invitation_text3}
                                 <br/>
-                                {window.language.feature_section.invitation_text4} 
-                                <br/>
-                                {window.language.feature_section.invitation_text5}                                 ​
+                                {window.language.feature_section.invitation_text4}                                ​
                             </p>              
                         </div>
                         <div className={styles.box_right_invitation}>
                         </div>
                     </div>
+                    {/* CP  */}
+                    <div className={styles.feature_section_large}>
+                        <div className={styles.box_left}>
+                            <h1>{window.language.feature_section.holding_title}</h1>
+                            <p className={styles.feature_details}>
+                            <h2>{window.language.feature_section.holding_subtitle1}</h2>
+                                {window.language.feature_section.holding_text1} <br/>
+                                {window.language.feature_section.holding_text2} <br/> <br/>    
+                                {window.language.feature_section.holding_text3}                              ​
+                            </p>              
+                        </div>
+                        <div className={styles.box_right_holding}>
+                        </div>
+                    </div>
+                    
 
                     <div className={styles.join_section} id="join_section">
                         <h1>{window.language.join_section.title}</h1>
-                        {/* <div className={styles.app_demo_image}></div> */}
                         <div className={styles.join_panel}>
-                            <h4>Android</h4>
-                            <button onClick={() => this.downloadAndroid()} className={styles.btn_join}>PickAxe
-                                for Android
+                            <h4>Minimum Cluster Solution Cluster</h4>
+                            <p>1. PickAxe provides pre-staked tokens</p>
+                            <p>2. The sealing efficiency is 1.5T/day </p>
+                            <p>3. The effective computing power reaches 450T </p>
+                            <p>4. High rate of return with great flexibility and scalability</p>
+                            <button className={styles.btn_join}>Consult Now
                             </button>
                             ​<p className={styles.light}>{window.language.join_section.size}</p>
-                            <h4>iOS</h4>
-                            <p>PickAxe</p>
-                            <button className={styles.btn_join} onClick={() => this.openTestFlight()}>
-                                PickAxe
+                        </div>
+                        <div className={styles.join_panel}>
+                            <h4>Flexible Expansion Cluster Solution Cluster</h4>
+                            <p>1. PickAxe provides pre-staked tokens</p>
+                            <p>2. The computing power machine and storage machine can be expanded freely at any time </p>
+                            <p>3. National level of IDC computer room </p>
+                            <p>4. Stable operation and maintenance</p>
+                            <button className={styles.btn_join}>Consult Now
                             </button>
-                            <p className={styles.light}> {window.language.join_section.pro_description}<br/>
-                                {window.language.join_section.pro_description2}</p>
-                            <br/>
-                            <br/>
-                            <p>PickAxe</p>
-                            <button className={styles.btn_join} onClick={() => this.showAppStoreModal()}>
-                                PickAxe
-                            </button>
-                            <p className={styles.light}> {window.language.join_section.app_store_description}<br/>
-                                {window.language.join_section.app_store_description2}</p>
-                            <p><a className={styles.link} href="ios-change-apple-id.html" target="_blank"> {window.language.join_section.apple_id}</a>
-                            </p>
-                            <p><a className={styles.link} href="ios-register-US-apple-id.html" target="_blank"> {window.language.join_section.register_apple_id}</a></p>
+                            ​<p className={styles.light}>{window.language.join_section.size}</p>
+                            
                         </div>    
                     </div>
 
@@ -297,18 +292,14 @@ export default class Home extends BaseComponent {
                             <h1>{window.language.support_section.title}</h1>
                             <p className={styles.support_details}>
                                 <h2>{window.language.support_section.subtitle1}</h2>
-                                {window.language.support_section.telegram}
-                                <a href="https://t.me/SqVPNGroup" target="_blank">PickAxeSupport</a>
                                 <br/>
-                                ​{window.language.support_section.email} 1234567@qq.com
+                                ​{window.language.support_section.email} contact@pickaxe.sh
                                 <br/>
-            
                             </p>
                             <p className={styles.support_details}>
                                 <h2>{window.language.support_section.subtitle2}</h2>
-                                <a href="instructions.html#faq" target="_blank">{window.language.support_section.faq}</a><br/>
-                                <a href="ios-change-apple-id.html" target="_blank">{window.language.support_section.tutorial1}</a><br/>
-                                <a href="ios-register-US-apple-id.html" target="_blank">{window.language.support_section.tutorial2}</a><br/>
+                                <a href="https://filecoin.io/" target="_blank">{window.language.support_section.tutorial1}</a><br/>
+                                <a href="https://docs.filecoin.io/" target="_blank">{window.language.support_section.tutorial2}</a><br/>
                             </p>
                         </div>
                         <div className={styles.box_right}>
